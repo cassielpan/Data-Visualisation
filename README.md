@@ -15,3 +15,20 @@ Interactive map based on scraped data from Weibo.
 ## Tools
 
 Python · Web Scraping · Data Processing · Interactive Visualisation
+
+
+## Skill Specificity Across Labour Markets
+
+These visualisations compare cross-country patterns in skill specificity
+across online and traditional labour markets.
+
+The maps were produced as part of my doctoral research on skills,
+institutions, and digital labour markets.
+
+### Online Labour Market
+
+![Online labour market skill specificity](images/online_labour_skill_specificity.png)
+
+### Traditional Labour Market
+
+![Traditional labour market skill specificity](images/employment_protection_skill_specificity.png)
