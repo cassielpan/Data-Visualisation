@@ -23,11 +23,11 @@ institutions, and digital labour markets.
 
 ### Online Labour Market
 
-![Online labour market skill specificity](images/online_labour_skill_specificity.png)
+![Online labour market skill specificity](images/employment_protection_hired_and_offered_skill.png)
 
 ### Traditional Labour Market
 
-![Traditional labour market skill specificity](images/employment_protection_skill_specificity.png)
+![Traditional labour market skill specificity](images/employment_protection.png)
 
 ## Tools
 
