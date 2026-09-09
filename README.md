@@ -12,10 +12,6 @@ Interactive map based on scraped data from Weibo.
 
 [View interactive map](https://cassielpan.github.io/Data-Visualisation/size.html)
 
-## Tools
-
-Python · Web Scraping · Data Processing · Interactive Visualisation
-
 
 ## Skill Specificity Across Labour Markets
 
@@ -32,3 +28,7 @@ institutions, and digital labour markets.
 ### Traditional Labour Market
 
 ![Traditional labour market skill specificity](images/employment_protection_skill_specificity.png)
+
+## Tools
+
+Python · Web Scraping · Data Processing · Interactive Visualisation
